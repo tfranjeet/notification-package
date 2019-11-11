@@ -1,7 +1,7 @@
 {
     "name": "tfranjeet/notifications",
     "description": "This is notifications package",
-    "type": "package",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
