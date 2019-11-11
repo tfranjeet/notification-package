@@ -1,0 +1,19 @@
+{
+    "name": "ranjeet/notifications",
+    "description": "This is notifications package",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ranjeet",
+            "email": "techformation.ranjeetthakur@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ranjeet\\Notifications\\": "src/"
+        }
+    }
+}
